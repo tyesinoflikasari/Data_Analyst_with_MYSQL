@@ -1,4 +1,4 @@
--- Data cleaning
+-- Project Data cleaning
 
 -- task:
 -- 1. Remove duplicate
